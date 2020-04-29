@@ -1,9 +1,9 @@
 # Title
 
 ```
-1.Patrick
-2.
-3.
+1.Patrick lives in B'ham
+2.Hiba Lives in Birmingam
+3.Mohammed Lives in Manchester
 4.
 5.
 6.
