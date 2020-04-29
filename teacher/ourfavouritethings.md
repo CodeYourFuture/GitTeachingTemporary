@@ -2,15 +2,10 @@
 
 ```
 1.Yohannes London
-<<<<<<< HEAD
 2.
 3.Gennady Stoke-on-Trent
-=======
-2. Chris Owen london
-3.
->>>>>>> d6549887328a9cce719acb0fd24122f69803d809
 4.
-5.
+5.Hello
 6.
 7.
 8.
