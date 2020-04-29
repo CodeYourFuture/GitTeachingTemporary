@@ -3,7 +3,7 @@ Leroy Douglas
 ```
 1. 29th of April
 
-2.
+2.Learning new things
 3.
 4.
 5.
