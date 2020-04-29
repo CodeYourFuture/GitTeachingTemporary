@@ -3,8 +3,8 @@
 ```
 1.Patrick lives in B'ham
 2.Hiba Lives in Birmingam
-3.
-4.
+3.Mohammed Lives in Manchester
+4.Patrick is at home now
 5.
 6.
 7.
