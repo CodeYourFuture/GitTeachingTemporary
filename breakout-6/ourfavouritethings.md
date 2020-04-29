@@ -2,7 +2,7 @@
 
 ```
 1.Ali Haider
-2.Daniel Carter
+2.Daniel Carter _ made changes
 3.
 4.Adebola Alaba-Ige
 5.
