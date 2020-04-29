@@ -2,7 +2,7 @@
 
 ```
 1. Tedros Nottingham
-2.
+2. Tedros lives in Nottingham
 3.
 4.nouri
 5.
