@@ -1,11 +1,13 @@
 # Title
+
 Leroy Douglas
+
 ```
 1. 29th of April
 
 2.Learning new things
 3.make change
-4.
+4.Github training today
 5.
 6.
 7.Seven
