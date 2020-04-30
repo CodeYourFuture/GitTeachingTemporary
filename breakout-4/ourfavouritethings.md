@@ -3,7 +3,7 @@
 ```
 1. Tedros Nottingham
 2. Tedros lives in Nottingham
-3.
+3. I am studying at CYF
 4.nouri
 5.
 6.
